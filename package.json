@@ -1,0 +1,17 @@
+{
+  "name": "tinyqr",
+  "version": "1.0.0",
+  "description": "Tiny QR Code generator",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "imagemagick": "^0.1.3",
+    "qr-image": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Anderson",
+  "license": "Apache-2.0"
+}
